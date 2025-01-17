@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gregory_p/static/css/main.001a4629.css",
-    "main.js": "/Gregory_p/static/js/main.e186200d.js",
+    "main.js": "/Gregory_p/static/js/main.68bb5352.js",
     "static/js/453.525b3397.chunk.js": "/Gregory_p/static/js/453.525b3397.chunk.js",
     "static/media/SF-Pro-Display-Bold.otf": "/Gregory_p/static/media/SF-Pro-Display-Bold.07a7fd83dabf0d1a6353.otf",
     "static/media/SF-Pro-Text-Medium.otf": "/Gregory_p/static/media/SF-Pro-Text-Medium.2534f5d4ea4aa056834b.otf",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/Gregory_p/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Gregory_p/index.html",
     "main.001a4629.css.map": "/Gregory_p/static/css/main.001a4629.css.map",
-    "main.e186200d.js.map": "/Gregory_p/static/js/main.e186200d.js.map",
+    "main.68bb5352.js.map": "/Gregory_p/static/js/main.68bb5352.js.map",
     "453.525b3397.chunk.js.map": "/Gregory_p/static/js/453.525b3397.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.001a4629.css",
-    "static/js/main.e186200d.js"
+    "static/js/main.68bb5352.js"
   ]
 }
